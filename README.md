@@ -2,20 +2,37 @@
 
 ###
 
+<h3 align="center">
+🎓 Étudiant ingénieur en informatique passionné par le développement web, l’IA et l’automatisation.  
+💻 J’aime concevoir des applications intelligentes et des solutions digitales performantes.
+</h3>
+
+###
+
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="react logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="flask logo" />
+  <img src="https://skillicons.dev/icons?i=c" height="60" alt="c logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="60" alt="cpp logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=oracle" height="60" alt="oracle logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="mysql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=bootstrap" height="60" alt="bootstrap logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="postgresql logo" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="tailwind logo" />
+  <img src="https://skillicons.dev/icons?i=docker" height="60" alt="docker logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=flutter" height="60" alt="flutter logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=python" height="60" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo" />
 </div>
 
 ###
